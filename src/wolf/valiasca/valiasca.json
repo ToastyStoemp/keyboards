@@ -1,7 +1,7 @@
 {
     "name": "Valiasca",
-    "vendorId": "0x0057",
-    "productId": "0x0052",
+    "vendorId": "0x5453",
+    "productId": "0x0057",
     "matrix": {"rows": 5, "cols": 15},
     "lighting": "none",
     "layouts": {
